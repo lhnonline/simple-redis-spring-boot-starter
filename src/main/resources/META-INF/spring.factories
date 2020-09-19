@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    haonan.online.simpleredis.springboot.starter.config.SimpleRedisAutoConfiguration,\
+    haonan.online.simpleredis.springboot.starter.util.RedisUtil,\
+    haonan.online.simpleredis.springboot.starter.config.RedissonCfg,\
+    haonan.online.simpleredis.springboot.starter.config.CacheCfg
